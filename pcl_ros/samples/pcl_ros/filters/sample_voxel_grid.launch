@@ -28,7 +28,7 @@
       <rosparam>
         topic: /voxel_grid/output
         hz: 20
-        hzerror: 15
+        hzerror: 18
         test_duration: 5.0
       </rosparam>
     </test>
